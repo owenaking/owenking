@@ -1,0 +1,25 @@
+body, h1, h2, p, ul, li{
+  margin: 10;
+  padding: 100;
+}
+
+body{
+  font-family: Arial, sans-serif;
+  background-color: #f2825e;
+  color: #383;
+}
+
+header{
+  background-color:#390;
+  padding: 21px;
+}
+
+h1{
+  color: #fff;
+  font-size: 28px;
+  margin-bottom: 18px;
+}
+
+nav ul{
+  list-style-type: circle;
+}
